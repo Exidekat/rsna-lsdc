@@ -10,3 +10,5 @@ xgboost
 lightgbm
 category_encoders
 matplotlib
+opencv-python
+pydicom
