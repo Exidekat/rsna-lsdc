@@ -1,0 +1,12 @@
+nbstripout
+kaggle
+pyarrow
+pandas
+polars
+numba
+optuna
+catboost
+xgboost
+lightgbm
+category_encoders
+matplotlib
