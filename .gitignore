@@ -5,6 +5,9 @@ submission.csv
 # Info files produced by catboost
 catboost_info/
 
+# Trained model params
+best_model*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

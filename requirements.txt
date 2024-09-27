@@ -12,3 +12,5 @@ category_encoders
 matplotlib
 opencv-python
 pydicom
+seaborn
+torchvision
