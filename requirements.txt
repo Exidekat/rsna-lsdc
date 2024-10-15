@@ -14,3 +14,11 @@ opencv-python
 pydicom
 seaborn
 torchvision
+timm_3d
+torchio
+itk
+skorch
+spacecutter
+open3d
+ultralytics
+metrics
